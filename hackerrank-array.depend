@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656910230 source:c:\users\vasundhara\onedrive\desktop\c language\hackerrank-array\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
